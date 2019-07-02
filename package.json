@@ -40,8 +40,8 @@
         "lodash": ">=4.17.11"
     },
     "devDependencies": {
-        "browser-sync": "2.24.6",
-        "gulp": "^3.9.1",
+        "browser-sync": "^2.26.7",
+        "gulp": "^4.0.2",
         "gulp-autoprefixer": "^5.0.0",
         "gulp-clean-css": "3.10.0",
         "gulp-header": "2.0.5",
